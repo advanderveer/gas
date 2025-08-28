@@ -1,4 +1,4 @@
-module github.com/securego/gosec/v2
+module github.com/GoASTScanner/gas
 
 require (
 	github.com/ccojocar/zxcvbn-go v1.0.4
